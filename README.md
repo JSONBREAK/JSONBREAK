@@ -37,6 +37,19 @@ Interested in system operations, troubleshooting, and real-world production envi
   <a href="https://www.raspberrypi.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" title="Raspberry Pi"/></a>
 </p>
 
+### ⭐ Currently Learning
+
+- 🐍 Python (automation, scripting, and system tools)
+- 🧪 Technical QA (manual testing, regression testing, API testing)
+- ⚙️ C / C++ (pointers, memory management, basic OOP, serial communication, GPIO, sensor integration)
+- 🐧 Linux Fundamentals (file system, permissions, processes & services, networking basics, log analysis)
+
+
+
+
+
+
+
 ---
 
 ### 🤝 Collaboration
