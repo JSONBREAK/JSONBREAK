@@ -1,13 +1,16 @@
 <h1 align="center">
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Surachok Kaewchan
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> 
+  I'm Surachok Kaewchan
 </h1>
 
 <h3 align="center">
-Junior System Engineer | IoT & System Integration | QA Engineer (Technical)
+  Junior System Engineer | IoT & System Integration | QA Engineer (Technical)
 </h3>
 
 <p align="center">
-📍 Bangkok, Thailand • 📧 <a href="mailto:jet-surachok.job@hotmail.com">Email</a> • 🌐 <a href="http://jetsurachok.netlify.app/">Portfolio</a>
+  📍 Bangkok, Thailand &nbsp;•&nbsp;
+  📧 <a href="mailto:jet-surachok.job@hotmail.com">jet-surachok.job@hotmail.com</a> &nbsp;•&nbsp;
+  🌐 <a href="https://jetsurachok.netlify.app" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -31,7 +34,6 @@ I enjoy understanding systems end-to-end — from hardware and services to softw
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" title="Git"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code"/></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="Node.js"/></a>
-  <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" title="Firebase"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" title="MySQL"/></a>
   <a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" title="Microsoft Azure"/></a>
   <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" title="Arduino"/></a>
@@ -40,44 +42,47 @@ I enjoy understanding systems end-to-end — from hardware and services to softw
 
 ---
 
-## ⭐ Currently Learning  
-*(QA / Automation & System Focus — tracking progress)*
+## ⭐ Currently Learning
+*(QA / Automation & System Focus)*
+
+### 🧪 QA & Automation
+- ✅ Software Testing Basics (Testing Principles, Black-box/White-box)
+- ✅ SDLC / STLC (V-Model, Waterfall vs. Agile Testing)
+- ✅ Test Case Design (การเขียน Test Step, การใช้เทคนิค BVA และ EP เพื่อหาค่ามา Test)
+- ✅ Manual Testing (การทำ Positive & Negative Testing)
+- ✅ Bug Reporting & Defect Lifecycle (การเขียนหัวข้อ Bug, 5 องค์ประกอบของ Report, สถานะ New ไปจนถึง Closed)
+- ✅ Regression Testing
+- ✅ Agile / Scrum for QA (บทบาท QA ในทีม Agile, การทำงานเป็นรอบ Sprint)
 
 ### 🎭 Automation Testing
-- ~~Playwright with JavaScript (End-to-End & Automation Testing)~~
-
-### 🗺️ QA / Automation Learning Roadmap
-- ~~🧪 Software Testing Basics~~
-- ~~🧩 SDLC / STLC~~
-- ~~📝 Test Case Design~~
-- ~~🖱️ Manual Testing~~
-- ~~🐞 Bug Reporting & Defect Lifecycle~~
-- ~~🔁 Regression Testing~~
-- ~~🔄 Agile / Scrum for QA~~
+- Playwright with JavaScript (End-to-End)
 
 ### 🐍 Programming for QA
-- ~~Python (automation, scripting, system tools)~~
+- Python fundamentals  
+- Python for test automation  
 
-### 🧪 Technical QA Skills
-- ~~Manual Testing~~
-- ~~Regression Testing~~
-- ~~API Testing~~
+### 🔍 Technical QA
+- ✅ SQL for QA (Data Validation, Complex Queries, DML & Aggregate Functions)
+- ✅ Database Understanding (ความเข้าใจเรื่อง Table, Column, Row และความสำคัญของ Environment เช่น OS/Browsers)
+-  API Testing / Automation (Postman, Status Codes) 
 
-### 🐧 System & Linux Fundamentals
-- ~~File system & permissions~~
-- ~~Processes & services~~
-- ~~Networking basics~~
-- ~~Log analysis~~
+### 🐧 System & Linux
+- File system & permissions (basic)
+- Processes & services
+- Networking basics
+- Log analysis
+
 
 ### ⚙️ System-Level Understanding
-- ~~C / C++ basics~~
-- ~~Pointers & memory management~~
-- ~~Basic OOP~~
-- ~~Serial communication~~
-- ~~GPIO & sensor integration~~
+-  C / C++ basics  
+-  Pointers & memory management  
+- Basic OOP
 
-> 💡 *Items will be unstriked as learning progresses.*
+> 📌 Focused on building strong foundations before advanced automation and system design.
 
+
+
+---
 
 ## 📊 GitHub Stats
 
