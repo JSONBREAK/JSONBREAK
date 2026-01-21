@@ -59,8 +59,8 @@ Interested in system operations, troubleshooting, and real-world production envi
 - Playwright with JavaScript (End-to-End)
 
 ### 🐍 Programming for QA
-- Python fundamentals  
-- Python for test automation  
+- ~~Python fundamentals~~  
+- ~~Python for test automation~~  
 
 ### 🔍 Technical QA
 - ✅ SQL for QA (Data Validation, Complex Queries, DML & Aggregate Functions)
@@ -75,8 +75,8 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 
 ### ⚙️ System-Level Understanding
--  C / C++ basics  
--  Pointers & memory management  
+- C / C++ basics  
+- Pointers & memory management  
 - Basic OOP
 
 > 📌 Focused on building strong foundations before advanced automation and system design.
