@@ -21,7 +21,117 @@ Interested in system operations, troubleshooting, and real-world production envi
 - ✉️ **Email:** jet-surachok.job@hotmail.com
 - 🧠 Currently learning: System engineering, IoT system integration, and technical QA for production environments
 
+
+
+## ⭐ Learning Roadmap (Current Focus)
+*Clearly separated by learning priority*
+
+### 🧪 QA / Software Testing Roadmap
+
+### 1. 🧪 Software Testing Foundations (The Mindset)
+
+#### 1.1 Software Testing Basics
+- **Objectives of Testing**
+- **7 Testing Principles (ISTQB)**
+- **Test Levels**
+  - Unit Testing
+  - Integration Testing
+  - System Testing
+  - User Acceptance Testing (UAT)
+- **Test Types**
+  - Functional vs. Non-functional
+  - Re-testing vs. Regression Testing
+
+#### 1.2 Software Development & Testing Process
+- **Software Development Models**
+  - Waterfall
+  - Agile
+  - V-Model
+- **STLC (Software Testing Life Cycle)**
+  - Requirement Analysis
+  - Test Planning
+  - Test Design
+  - Test Execution
+  - Test Closure
+
 ---
+
+### 2. ✍️ Test Case Design & Manual Testing (The Core)
+
+#### 2.1 Test Case Design Techniques (Black-box)
+- **Equivalence Partitioning (EP)**
+- **Boundary Value Analysis (BVA)**
+- **Decision Table / State Transition**
+
+#### 2.2 Manual Test Execution
+- **Positive Testing**
+- **Negative Testing**
+- **Test Case Structure** (Scenario, Precondition, Steps, Test Data, Expected Result, Status)
+
+#### 2.3 Bug & Defect Management
+- **Bug Reporting** (Severity, Priority)
+  - Summary
+  - Steps to Reproduce
+  - Actual Result
+  - Expected Result
+  - Environment
+- **Defect Lifecycle** (สิ่งที่เกิดขึ้นกับ Bug หลังจากถูก Report)
+  - New
+  - Open
+  - Fixed
+  - Re-test
+  - Closed
+
+---
+
+### 3. 🔍 Technical QA & Backend Validation *(Planned)*
+
+#### 3.1 SQL for QA
+- ~~SELECT / INSERT / UPDATE / DELETE~~
+- ~~WHERE, JOIN, GROUP BY, Aggregate Functions~~
+
+#### 3.2 API Testing
+- ~~Postman (GET, POST, PUT, DELETE)~~
+- ~~Status Codes, JSON Body, Headers~~
+
+---
+
+### 4. 🤖 Automation Testing (The Efficiency) *(Planned)*
+
+#### 4.1 Programming for QA
+- ~~JavaScript / Python~~
+
+#### 4.2 Automation Framework
+- ~~Playwright (E2E, Locators, Assertions)~~
+
+#### 4.3 Agile / Scrum for QA
+- ~~QA Role in Sprint~~
+
+---
+
+### 5. 🐧 System & Low-Level Testing (The Pro Level) *(Planned)*
+
+#### 5.1 Linux Essentials
+- ~~Basic Commands, File System, Permissions~~
+
+#### 5.2 Log Analysis
+- ~~Application / Server Logs~~
+
+#### 5.3 Networking Basics
+- ~~HTTP / HTTPS, IP, DNS~~
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jSONBREAK&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSONBREAK&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="160"/>
+</p>
+
+
 
 
 
@@ -43,55 +153,7 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 ---
 
-## ⭐ Currently Learning
-*(QA / Automation & System Focus)*
-
-### 🧪 QA & Automation
-- ✅ Software Testing Basics (Testing Principles, Black-box/White-box)
-- ✅ SDLC / STLC (V-Model, Waterfall vs. Agile Testing)
-- ✅ Test Case Design (การเขียน Test Step, การใช้เทคนิค BVA และ EP เพื่อหาค่ามา Test)
-- ✅ Manual Testing (การทำ Positive & Negative Testing)
-- ✅ Bug Reporting & Defect Lifecycle (การเขียนหัวข้อ Bug, 5 องค์ประกอบของ Report, สถานะ New ไปจนถึง Closed)
-- ✅ Regression Testing
-- ✅ Agile / Scrum for QA (บทบาท QA ในทีม Agile, การทำงานเป็นรอบ Sprint)
-
-### 🎭 Automation Testing
-- Playwright with JavaScript (End-to-End)
-
-### 🐍 Programming for QA
-- ~~Python fundamentals~~  
-- ~~Python for test automation~~  
-
-### 🔍 Technical QA
-- ✅ SQL for QA (Data Validation, Complex Queries, DML & Aggregate Functions)
-- ✅ Database Understanding (ความเข้าใจเรื่อง Table, Column, Row และความสำคัญของ Environment เช่น OS/Browsers)
--  API Testing / Automation (Postman, Status Codes) 
-
-### 🐧 System & Linux
-- File system & permissions (basic)
-- Processes & services
-- Networking basics
-- Log analysis
-
-
-### ⚙️ System-Level Understanding
-- ~~C / C++ basics~~  
-- ~~Pointers & memory management~~  
-- ~~Basic OOP~~
-
-> 📌 Focused on building strong foundations before advanced automation and system design.
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jSONBREAK&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSONBREAK&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="160"/>
-</p>
-
----
 
 > _Anything else? Still debugging… probably the system, not me 😄_
+
+---
