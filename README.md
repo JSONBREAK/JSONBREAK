@@ -6,21 +6,22 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Junior System Engineer | IoT & System Integration | QA Engineer (Technical)
 </h3>
 
----
-
-### 👨‍💻 About Me
-
-Junior System Engineer with hands-on experience in IoT systems, system integration, and technical QA.  
-Interested in system operations, troubleshooting, and real-world production environments.
-
-- 🌍 **Location:** Bangkok, Thailand  
-- 🖥️ **Portfolio:** [jetsurachok.netlify.app](http://jetsurachok.netlify.app/)  
-- ✉️ **Email:** [jet-surachok.job@hotmail.com](mailto:jet-surachok.job@hotmail.com)  
-- 🧠 **Currently learning:** System engineering, IoT system integration, and technical QA for production environments  
+<p align="center">
+📍 Bangkok, Thailand • 📧 <a href="mailto:jet-surachok.job@hotmail.com">Email</a> • 🌐 <a href="http://jetsurachok.netlify.app/">Portfolio</a>
+</p>
 
 ---
 
-### 🛠️ Technical Skills
+## 👨‍💻 About Me
+
+Junior System Engineer with hands-on experience in **IoT systems, system integration, and technical QA**.  
+Interested in **system operations, troubleshooting, automation testing**, and real-world production environments.
+
+I enjoy understanding systems end-to-end — from hardware and services to software quality and reliability.
+
+---
+
+## 🛠️ Technical Skills
 
 <p align="left">
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" title="C++"/></a>
@@ -37,38 +38,48 @@ Interested in system operations, troubleshooting, and real-world production envi
   <a href="https://www.raspberrypi.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" title="Raspberry Pi"/></a>
 </p>
 
-### ⭐ Currently Learning
-
-- 🐍 Python (automation, scripting, and system tools)
-- 🧪 Technical QA (manual testing, regression testing, API testing)
-- ⚙️ C / C++ (pointers, memory management, basic OOP, serial communication, GPIO, sensor integration)
-- 🐧 Linux Fundamentals (file system, permissions, processes & services, networking basics, log analysis)
-
-
-
-
-
-
-
 ---
 
-### 🤝 Collaboration
+## ⭐ Currently Learning  
+*(QA / Automation & System Focus — tracking progress)*
 
-I'm open to collaborating on **system integration, IoT projects, technical QA, and troubleshooting tasks**.
+### 🎭 Automation Testing
+- ~~Playwright with JavaScript (End-to-End & Automation Testing)~~
 
----
+### 🗺️ QA / Automation Learning Roadmap
+- ~~🧪 Software Testing Basics~~
+- ~~🧩 SDLC / STLC~~
+- ~~📝 Test Case Design~~
+- ~~🖱️ Manual Testing~~
+- ~~🐞 Bug Reporting & Defect Lifecycle~~
+- ~~🔁 Regression Testing~~
+- ~~🔄 Agile / Scrum for QA~~
 
-### 🌐 Social
+### 🐍 Programming for QA
+- ~~Python (automation, scripting, system tools)~~
 
-<p align="left">
-  <a href="https://github.com/jSONBREAK">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" title="GitHub"/>
-  </a>
-</p>
+### 🧪 Technical QA Skills
+- ~~Manual Testing~~
+- ~~Regression Testing~~
+- ~~API Testing~~
 
----
+### 🐧 System & Linux Fundamentals
+- ~~File system & permissions~~
+- ~~Processes & services~~
+- ~~Networking basics~~
+- ~~Log analysis~~
 
-### 📊 GitHub Stats
+### ⚙️ System-Level Understanding
+- ~~C / C++ basics~~
+- ~~Pointers & memory management~~
+- ~~Basic OOP~~
+- ~~Serial communication~~
+- ~~GPIO & sensor integration~~
+
+> 💡 *Items will be unstriked as learning progresses.*
+
+
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jSONBREAK&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160"/>
