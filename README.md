@@ -75,9 +75,9 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 
 ### ⚙️ System-Level Understanding
-- C / C++ basics  
-- Pointers & memory management  
-- Basic OOP
+- ~~C / C++ basics~~  
+- ~~Pointers & memory management~~  
+- ~~Basic OOP~~
 
 > 📌 Focused on building strong foundations before advanced automation and system design.
 
