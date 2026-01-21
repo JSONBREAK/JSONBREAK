@@ -7,22 +7,23 @@
   Junior System Engineer | IoT & System Integration | QA Engineer (Technical)
 </h3>
 
-<p align="center">
-  📍 Bangkok, Thailand &nbsp;•&nbsp;
-  📧 <a href="mailto:jet-surachok.job@hotmail.com">jet-surachok.job@hotmail.com</a> &nbsp;•&nbsp;
-  🌐 <a href="https://jetsurachok.netlify.app" target="_blank">Portfolio</a>
-</p>
+
 
 ---
 
-## 👨‍💻 About Me
+ ### 👨‍💻 About Me
 
-Junior System Engineer with hands-on experience in **IoT systems, system integration, and technical QA**.  
-Interested in **system operations, troubleshooting, automation testing**, and real-world production environments.
+Junior System Engineer with hands-on experience in IoT systems, system integration, and technical QA.
+Interested in system operations, troubleshooting, and real-world production environments.
 
-I enjoy understanding systems end-to-end — from hardware and services to software quality and reliability.
+- 🌍 **Location:** Bangkok, Thailand  
+- 🖥️ **Portfolio:** [jetsurachok.netlify.app](https://jetsurachok.netlify.app)  
+- ✉️ **Email:** jet-surachok.job@hotmail.com
+- 🧠 Currently learning: System engineering, IoT system integration, and technical QA for production environments
 
 ---
+
+
 
 ## 🛠️ Technical Skills
 
