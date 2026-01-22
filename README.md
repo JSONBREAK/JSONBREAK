@@ -84,17 +84,20 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 ## 🛠️ Technical Skills
 
-
-
 ### 🚀 Software & Application Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,nodejs,flutter" height="40" />
-</a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="40" /></a>
 
 ### ⚙️ Systems, Databases & IoT
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,arduino,raspberrypi" height="40" />
-</a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="40" /></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" height="40" /></a>
+<a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" height="40" /></a>
 
 ---
 
