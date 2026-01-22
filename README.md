@@ -7,11 +7,9 @@
   Junior System Engineer | IoT & System Integration | QA Engineer (Technical)
 </h3>
 
-
-
 ---
 
- ### 👨‍💻 About Me
+### 👨‍💻 About Me
 
 Junior System Engineer with hands-on experience in IoT systems, system integration, and technical QA.
 Interested in system operations, troubleshooting, and real-world production environments.
@@ -21,106 +19,66 @@ Interested in system operations, troubleshooting, and real-world production envi
 - ✉️ **Email:** jet-surachok.job@hotmail.com
 - 🧠 Currently learning: System engineering, IoT system integration, and technical QA for production environments
 
-
+---
 
 ## ⭐ Learning Roadmap (Current Focus)
-*Clearly separated by learning priority*
-
-### 🧪 QA / Software Testing Roadmap
 
 ### 1. 🧪 Software Testing Foundations (The Mindset)
-
-#### 1.1 Software Testing Basics
-- **Objectives of Testing**
-- **7 Testing Principles (ISTQB)**
-- **Test Levels**
-  - Unit Testing
-  - Integration Testing
-  - System Testing
-  - User Acceptance Testing (UAT)
-- **Test Types**
-  - Functional vs. Non-functional
-  - Re-testing vs. Regression Testing
-
-#### 1.2 Software Development & Testing Process
-- **Software Development Models**
-  - Waterfall
-  - Agile
-  - V-Model
-- **STLC (Software Testing Life Cycle)**
-  - Requirement Analysis
-  - Test Planning
-  - Test Design
-  - Test Execution
-  - Test Closure
-
----
+- **1.1 Software Testing Basics**
+    - [ ] Objectives of Testing
+    - [ ] 7 Testing Principles (ISTQB)
+    - [ ] Test Levels (Unit, Integration, System, UAT)
+    - [ ] Test Types (Functional, Non-functional, Regression)
+- **1.2 Software Development & Testing Process**
+    - [ ] Software Development Models (Waterfall, Agile, V-Model)
+    - [ ] STLC (Software Testing Life Cycle)
 
 ### 2. ✍️ Test Case Design & Manual Testing (The Core)
+- **2.1 Test Case Design Techniques (Black-box)**
+    - [ ] Equivalence Partitioning (EP)
+    - [ ] Boundary Value Analysis (BVA)
+    - [ ] Decision Table / State Transition
+- **2.2 Manual Test Execution**
+    - [ ] Positive & Negative Testing
+    - [ ] Test Case Structure (Scenario, Steps, Expected Result)
+- **2.3 Bug & Defect Management**
+    - [ ] Bug Reporting (Severity, Priority, Steps to Reproduce)
+    - [ ] Defect Lifecycle (New -> Closed)
 
-#### 2.1 Test Case Design Techniques (Black-box)
-- **Equivalence Partitioning (EP)**
-- **Boundary Value Analysis (BVA)**
-- **Decision Table / State Transition**
+### 3. 🔍 Technical QA & Backend Validation
+- **3.1 SQL for QA**
+    - [ ] CRUD Operations (SELECT, INSERT, UPDATE, DELETE)
+    - [ ] Advanced Queries (JOIN, GROUP BY, Aggregate)
+- **3.2 API Testing**
+    - [ ] Postman Essentials (GET, POST, PUT, DELETE)
+    - [ ] Status Codes, JSON Body, Headers
+- **3.3 Database & API Advanced**
+    - [ ] Postman Scripting (Assertions & Environments)
+    - [ ] Data Integrity Testing (Query validation between UI & DB)
 
-#### 2.2 Manual Test Execution
-- **Positive Testing**
-- **Negative Testing**
-- **Test Case Structure** (Scenario, Precondition, Steps, Test Data, Expected Result, Status)
+### 4. 🤖 Automation & Process (The Efficiency)
+- **4.1 Programming for QA**
+    - [ ] JavaScript / Python
+- **4.2 Automation Framework**
+    - [ ] Playwright (E2E, Locators, Assertions)
+    - [ ] Page Object Model (POM) Design
+- **4.3 CI/CD & DevOps for QA**
+    - [ ] Integration with **GitHub Actions**
+    - [ ] **Headless Testing** in Docker Containers
+- **4.4 Agile / Scrum for QA**
+    - [ ] QA Role in Sprint (Planning, Daily, Review, Retro)
 
-#### 2.3 Bug & Defect Management
-- **Bug Reporting** (Severity, Priority)
-  - Summary
-  - Steps to Reproduce
-  - Actual Result
-  - Expected Result
-  - Environment
-- **Defect Lifecycle** (สิ่งที่เกิดขึ้นกับ Bug หลังจากถูก Report)
-  - New
-  - Open
-  - Fixed
-  - Re-test
-  - Closed
-
----
-
-### 3. 🔍 Technical QA & Backend Validation *(Planned)*
-
-#### 3.1 SQL for QA
-- ~~SELECT / INSERT / UPDATE / DELETE~~
-- ~~WHERE, JOIN, GROUP BY, Aggregate Functions~~
-
-#### 3.2 API Testing
-- ~~Postman (GET, POST, PUT, DELETE)~~
-- ~~Status Codes, JSON Body, Headers~~
-
----
-
-### 4. 🤖 Automation Testing (The Efficiency) *(Planned)*
-
-#### 4.1 Programming for QA
-- ~~JavaScript / Python~~
-
-#### 4.2 Automation Framework
-- ~~Playwright (E2E, Locators, Assertions)~~
-
-#### 4.3 Agile / Scrum for QA
-- ~~QA Role in Sprint~~
-
----
-
-### 5. 🐧 System & Low-Level Testing (The Pro Level) *(Planned)*
-
-#### 5.1 Linux Essentials
-- ~~Basic Commands, File System, Permissions~~
-
-#### 5.2 Log Analysis
-- ~~Application / Server Logs~~
-
-#### 5.3 Networking Basics
-- ~~HTTP / HTTPS, IP, DNS~~
-
-
+### 5. 🐧 System & Low-Level Testing (The Pro Level)
+- **5.1 Linux Essentials**
+    - [ ] Basic Commands, File System, Permissions
+- **5.2 Log Analysis**
+    - [ ] Application / Server Logs Analysis
+- **5.3 Networking Basics**
+    - [ ] HTTP / HTTPS, IP, DNS
+- **5.4 Performance & Reliability**
+    - [ ] Load Testing with **k6** (Basic Stress Test)
+    - [ ] Log Monitoring & Analysis (ELK Stack or Grafana Basics)
+    - [ ] Testing IoT Connectivity (MQTT/HTTP Latency)
 
 ---
 
@@ -130,10 +88,6 @@ Interested in system operations, troubleshooting, and real-world production envi
   <img src="https://github-readme-stats.vercel.app/api?username=jSONBREAK&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSONBREAK&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="160"/>
 </p>
-
-
-
-
 
 ## 🛠️ Technical Skills
 
@@ -153,7 +107,4 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 ---
 
-
 > _Anything else? Still debugging… probably the system, not me 😄_
-
----
