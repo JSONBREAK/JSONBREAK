@@ -25,13 +25,13 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 ### 1. 🧪 Software Testing Foundations (The Mindset)
 - **1.1 Software Testing Basics**
-    - [ ] Objectives of Testing
-    - [ ] 7 Testing Principles (ISTQB)
-    - [ ] Test Levels (Unit, Integration, System, UAT)
+    - [x] Objectives of Testing
+    - [x] 7 Testing Principles (ISTQB)
+    - [x] Test Levels (Unit, Integration, System, UAT)
     - [ ] Test Types (Functional, Non-functional, Regression)
 - **1.2 Software Development & Testing Process**
     - [ ] Software Development Models (Waterfall, Agile, V-Model)
-    - [ ] STLC (Software Testing Life Cycle)
+    - [x] STLC (Software Testing Life Cycle)
 
 ### 2. ✍️ Test Case Design & Manual Testing (The Core)
 - **2.1 Test Case Design Techniques (Black-box)**
