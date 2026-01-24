@@ -28,15 +28,15 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] Objectives of Testing
     - [x] 7 Testing Principles (ISTQB)
     - [x] Test Levels (Unit, Integration, System, UAT)
-    - [ ] Test Types (Functional, Non-functional, Regression)
+    - [x] Test Types (Functional, Non-functional, Regression)
 - **1.2 Software Development & Testing Process**
     - [ ] Software Development Models (Waterfall, Agile, V-Model)
     - [x] STLC (Software Testing Life Cycle)
 
 ### 2. ✍️ Test Case Design & Manual Testing (The Core)
 - **2.1 Test Case Design Techniques (Black-box)**
-    - [ ] Equivalence Partitioning (EP)
-    - [ ] Boundary Value Analysis (BVA)
+    - [x] Equivalence Partitioning (EP)
+    - [x] Boundary Value Analysis (BVA)
     - [ ] Decision Table / State Transition
 - **2.2 Manual Test Execution**
     - [ ] Positive & Negative Testing
