@@ -29,7 +29,7 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] 7 Testing Principles (ISTQB)
     - [x] Test Levels (Unit, Integration, System, UAT)
     - [x] Test Types (Functional, Non-functional, Regression)
-    - [x] Requirement Analysis (STLC(1-3), Type of Testing, Test Design Techniques)
+    - [x] Requirement Analysis (STLC Focus: Phase 1, Test Types, Test Design Techniques)
 - **1.2 Software Development & Testing Process**
     - [ ] Software Development Models (Waterfall, Agile, V-Model)
     - [x] STLC (Software Testing Life Cycle)
@@ -38,7 +38,9 @@ Interested in system operations, troubleshooting, and real-world production envi
 - **2.1 Test Case Design Techniques (Black-box)**
     - [x] Equivalence Partitioning (EP)
     - [x] Boundary Value Analysis (BVA)
-    - [x] Decision Table / State Transition / Experience-Based Testing (EBT)
+    - [x] Decision Table (Create & Simplification)
+    - [x] State Transition 
+    - [x] Experience-Based Testing (EBT)
 - **2.2 Manual Test Execution**
     - [ ] Positive & Negative Testing
     - [ ] Test Case Structure (Scenario, Steps, Expected Result)
