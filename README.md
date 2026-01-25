@@ -28,7 +28,7 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] Objectives of Testing
     - [x] 7 Testing Principles (ISTQB)
     - [x] Test Levels (Unit, Integration, System, UAT)
-    - [x] Test Types (Functional, Non-functional, Regression)
+    - [x] Test Types (Functional, Non-functional, Change-Related Testing)
     - [x] Requirement Analysis (STLC Focus: Phase 1, Test Types, Test Design Techniques)
 - **1.2 Software Development & Testing Process**
     - [ ] Software Development Models (Waterfall, Agile, V-Model)
@@ -42,8 +42,8 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] State Transition 
     - [x] Experience-Based Testing (EBT)
 - **2.2 Manual Test Execution**
-    - [ ] Positive & Negative Testing
-    - [ ] Test Case Structure (Scenario, Steps, Expected Result)
+    - [x] Positive & Negative Testing & Edge Case
+    - [x] Test Case Design (Requirement → Test Scenario → Test Case)
 - **2.3 Bug & Defect Management**
     - [ ] Bug Reporting (Severity, Priority, Steps to Reproduce)
     - [ ] Defect Lifecycle (New -> Closed)
