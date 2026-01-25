@@ -37,7 +37,7 @@ Interested in system operations, troubleshooting, and real-world production envi
 - **2.1 Test Case Design Techniques (Black-box)**
     - [x] Equivalence Partitioning (EP)
     - [x] Boundary Value Analysis (BVA)
-    - [ ] Decision Table / State Transition
+    - [x] Decision Table / State Transition
 - **2.2 Manual Test Execution**
     - [ ] Positive & Negative Testing
     - [ ] Test Case Structure (Scenario, Steps, Expected Result)
