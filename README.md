@@ -47,21 +47,27 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] Test Case Design (Requirement → Test Scenario → Test Case)
 - **2.3 Bug & Defect Management**
     - [x] QA Mindset (Critical Thinking, Detail, Empathy, Objectivity)
-    - [x] Anatomy of Bug Report (เป้าหมายของ Bug Report)
-    - [x] Severity vs Priority 
-    - [x] Defect Lifecycle (Status New -> Closed และการ Map เข้ากับ Jira)
-    - [x] ~~Bug Reporting (Severity, Priority, Steps to Reproduce)~~
-    
+    - [x] Anatomy of Bug Report (clear & reproducible)
+    - [ ] Bug Reproducibility & Environment Awareness
+    - [x] Severity vs Priority (impact vs urgency)
+    - [x] Defect Life Cycle (tracking & workflow)
+  
+
+## ⭐ (Next Focus Focus)
+
 ### 3. 🔍 Technical QA & Backend Validation
 - **3.1 SQL for QA**
     - [ ] CRUD Operations (SELECT, INSERT, UPDATE, DELETE)
     - [ ] Advanced Queries (JOIN, GROUP BY, Aggregate)
 - **3.2 API Testing**
     - [ ] Postman Essentials (GET, POST, PUT, DELETE)
+      - Environment & Variables
+      - Authorization (Bearer Token)
     - [ ] Status Codes, JSON Body, Headers
 - **3.3 Database & API Advanced**
-    - [ ] Postman Scripting (Assertions & Environments)
-    - [ ] Data Integrity Testing (Query validation between UI & DB)
+    - [ ] Postman Scripting (basic assertions & environment variables)
+    - [ ] Data Integrity Testing (validate data between API response & database)
+    - [ ] Debug API issues using SQL queries
 
 ### 4. 🤖 Automation & Process (The Efficiency)
 - **4.1 Programming for QA**
@@ -69,6 +75,7 @@ Interested in system operations, troubleshooting, and real-world production envi
 - **4.2 Automation Framework**
     - [ ] Playwright (E2E, Locators, Assertions)
     - [ ] Page Object Model (POM) Design
+    - [ ] Reusable test components
 - **4.3 CI/CD & DevOps for QA**
     - [ ] Integration with **GitHub Actions**
     - [ ] **Headless Testing** in Docker Containers
