@@ -33,6 +33,7 @@ Interested in system operations, troubleshooting, and real-world production envi
 - **1.2 Software Development & Testing Process**
     - [ ] Software Development Models (Waterfall, Agile, V-Model)
     - [x] STLC (Software Testing Life Cycle)
+    - [X] SDLC (Software Development Life Cycle)
 
 ### 2. ✍️ Test Case Design & Manual Testing (The Core)
 - **2.1 Test Case Design Techniques (Black-box)**
