@@ -31,7 +31,7 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] Test Types (Functional, Non-functional, Change-Related Testing)
     - [x] Requirement Analysis (STLC Focus: Phase 1, Test Types, Test Design Techniques)
 - **1.2 Software Development & Testing Process**
-    - [ ] Software Development Models (Waterfall, Agile, V-Model)
+    - [x] Software Development Models (Waterfall, Agile, V-Model)
     - [x] STLC (Software Testing Life Cycle)
     - [X] SDLC (Software Development Life Cycle)
 
@@ -46,9 +46,12 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] Positive & Negative Testing & Edge Case
     - [x] Test Case Design (Requirement → Test Scenario → Test Case)
 - **2.3 Bug & Defect Management**
-    - [ ] Bug Reporting (Severity, Priority, Steps to Reproduce)
-    - [ ] Defect Lifecycle (New -> Closed)
-
+    - [x] QA Mindset (Critical Thinking, Detail, Empathy, Objectivity)
+    - [x] Anatomy of Bug Report (เป้าหมายของ Bug Report)
+    - [x] Severity vs Priority 
+    - [x] Defect Lifecycle (Status New -> Closed และการ Map เข้ากับ Jira)
+    - [x] ~~Bug Reporting (Severity, Priority, Steps to Reproduce)~~
+    
 ### 3. 🔍 Technical QA & Backend Validation
 - **3.1 SQL for QA**
     - [ ] CRUD Operations (SELECT, INSERT, UPDATE, DELETE)
