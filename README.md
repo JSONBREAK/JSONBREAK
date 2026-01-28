@@ -48,7 +48,7 @@ Interested in system operations, troubleshooting, and real-world production envi
 - **2.3 Bug & Defect Management**
     - [x] QA Mindset (Critical Thinking, Detail, Empathy, Objectivity)
     - [x] Anatomy of Bug Report (clear & reproducible)
-    - [ ] Bug Reproducibility & Environment Awareness
+    - [x] Bug Reproducibility & Environment Awareness (Client Side, Network, Backend)
     - [x] Severity vs Priority (impact vs urgency)
     - [x] Defect Life Cycle (tracking & workflow)
   
