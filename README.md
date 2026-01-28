@@ -17,7 +17,7 @@ Interested in system operations, troubleshooting, and real-world production envi
 - 🌍 **Location:** Bangkok, Thailand  
 - 🖥️ **Portfolio:** [jetsurachok.netlify.app](https://jetsurachok.netlify.app)  
 - ✉️ **Email:** jet-surachok.job@hotmail.com
-- 🧠 Currently learning: System engineering, IoT system integration, and technical QA for production environments
+- 🧠 Currently learning: Technical QA (API Testing, SQL Validation, Automation with Playwright) for production systems
 
 ---
 
