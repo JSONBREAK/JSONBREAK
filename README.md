@@ -29,33 +29,47 @@ Interested in backend systems, API testing, and eventually system engineering.
 
 ### 1. 🧪 Software Testing Foundations (The Mindset)
 - **1.1 Software Testing Basics**
-    - [x] Objectives of Testing
-    - [x] 7 Testing Principles (ISTQB)
+    - [x] Objectives of Testing (Reduce risk, Find defects)
+    - [x] 7 Testing Principles (Early, Exhaustive impossible, Context)
     - [x] Test Levels (Unit, Integration, System, UAT)
-    - [x] Test Types (Functional, Non-functional)
-    - [x] SDLC & STLC
-    - [x] Requirement Analysis (STLC Focus: Phase 1, Test Types, Test Design Techniques)
+    - [x] Test Types
+      - Functional (What system does)
+      - Non-functional (Performance, Usability)
+    - [x] SDLC & STLC (Dev flow vs QA flow)
+    - [x] Requirement Analysis
+      - QA role in early phase (Clarify, Question, Prevent defects)
+      - Mapping
+        - Requirement → Test Type
+        - Requirement → Test Design Technique
 - **1.2 Software Development & Testing Process**
-    - [x] Software Development Models (Waterfall, Agile, V-Model)
-    - [x] STLC (Software Testing Life Cycle)
-    - [X] SDLC (Software Development Life Cycle)
+    - [x] Software Development Models
+      - Waterfall (Phase-based)
+      - Agile (Iterative)
+      - V-Model (Dev ↔ Test mapping)     
+    - [x] STLC (Plan → Design → Execute → Close)
+    - [X] SDLC (Plan → Build → Test → Release → Maintain)
 
 ### 2. ✍️ Test Case Design & Manual Testing (The Core)
 - **2.1 Test Case Design Techniques (Black-box)**
     - [x] Equivalence Partitioning (EP)
     - [x] Boundary Value Analysis (BVA)
     - [x] Decision Table (Create & Simplification)
-    - [x] State Transition Testing
-    - [ ] Experience-Based Testing (EBT) ← (need more practice)
+    - [x] State Transition Testing (State, Event, Transition)
+    - [ ] Experience-Based Testing (EBT) ← (need more hands-on practice)
+      - Exploratory & Error guessing
 - **2.2 Manual Test Execution**
-    - [x] Positive & Negative Testing & Edge Case
+    - [x] Positive / Negative / Edge Case
     - [x] Test Case Design (Requirement → Test Scenario → Test Case)
 - **2.3 Bug & Defect Management**
-    - [ ] QA Mindset (Critical Thinking, Detail, Empathy, Objectivity) ← (still learning)
-    - [x] Anatomy of Bug Report (clear & reproducible)
-    - [x] Bug Reproducibility & Environment Awareness (Client Side, Network, Backend)
-    - [x] Severity vs Priority (impact vs urgency)
-    - [x] Defect Life Cycle (tracking & workflow)
+    - [ ] QA Mindset ← (still learning)
+      - Critical Thinking (What if?, Edge case)
+      - Attention to Detail (Data, UI, Flow)
+      - Empathy (User pain, Dev constraint)
+      - Objectivity (Fact-based)
+    - [x] Anatomy of Bug Report (Steps, Expected vs Actual, Env)
+    - [x] Bug Reproducibility & Environment (Client, Network, Backend)
+    - [x] Severity vs Priority (Impact vs Urgency)
+    - [x] Defect Life Cycle (New → Fixed → Retest → Closed)
   
 
 ## ⭐ (Next Focus Focus)
@@ -65,28 +79,30 @@ Interested in backend systems, API testing, and eventually system engineering.
     - [ ] CRUD Operations (SELECT, INSERT, UPDATE, DELETE)
     - [ ] Advanced Queries (JOIN, GROUP BY, Aggregate)
 - **3.2 API Testing**
-    - [ ] Postman Essentials (GET, POST, PUT, DELETE)
-      - Environment & Variables
+    - [ ] HTTP Methods (GET, POST, PUT, DELETE)
+    - [ ] Postman Basics
+      - Environment, Variables
       - Authorization (Bearer Token)
-    - [ ] Status Codes, JSON Body, Headers
+    - [ ] API Validation (Status code, Body, Headers)
 - **3.3 Database & API Advanced**
-    - [ ] Postman Scripting (basic assertions & environment variables)
-    - [ ] Data Integrity Testing (validate data between API response & database)
-    - [ ] Debug API issues using SQL queries
+    - [ ] Postman Scripting (Assertions, Variables)
+    - [ ] Data Integrity (API ↔ Database)
+    - [ ] Debugging (API error → SQL check)
 
 ### 4. 🤖 Automation & Process (The Efficiency) **📅 PLANNED**
 - **4.1 Programming for QA**
     - [ ] ~~JavaScript / Python~~
-    - [ ] Typescript
+    - [ ] Typescript (Syntax, Async, Assertion)
 - **4.2 Automation Framework**
-    - [ ] Playwright (E2E, Locators, Assertions)
-    - [ ] Page Object Model (POM) Design
+    - [ ] Playwright (Locators, Assertions, E2E flow)
+    - [ ] Page Object Model (POM)
     - [ ] Reusable test components
 - **4.3 CI/CD & DevOps for QA**
-    - [ ] Integration with **GitHub Actions**
-    - [ ] **Headless Testing** in Docker Containers
+    - [ ] GitHub Actions (Trigger, Pipeline)
+    - [ ] Headless Testing
+    - [ ] Docker-based Test Execution
 - **4.4 Agile / Scrum for QA**
-    - [ ] QA Role in Sprint (Planning, Daily, Review, Retro)
+    - [ ] QA Role in Sprint (Planning, Daily, Review, Retrospective)
 
 ### 5. 🐧 System & Low-Level Testing (The Pro Level) **📅 PLANNED**
 - **5.1 Linux Essentials**
