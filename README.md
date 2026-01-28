@@ -71,7 +71,8 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 ### 4. 🤖 Automation & Process (The Efficiency)
 - **4.1 Programming for QA**
-    - [ ] JavaScript / Python
+    - [ ] ~~JavaScript / Python~~
+    - [ ] Typescript
 - **4.2 Automation Framework**
     - [ ] Playwright (E2E, Locators, Assertions)
     - [ ] Page Object Model (POM) Design
