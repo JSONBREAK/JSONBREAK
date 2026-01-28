@@ -4,20 +4,24 @@
 </h1>
 
 <h3 align="center">
-  Junior System Engineer | IoT & System Integration | QA Engineer (Technical)
+  QA Engineer (Technical) | API Testing & System Validation
 </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-Junior System Engineer with hands-on experience in IoT systems, system integration, and technical QA.
-Interested in system operations, troubleshooting, and real-world production environments.
+QA Engineer with technical background in systems and infrastructure. 
+Learning QA systematically to understand software quality and testing. 
+Interested in backend systems, API testing, and eventually system engineering.
 
 - 🌍 **Location:** Bangkok, Thailand  
 - 🖥️ **Portfolio:** [jetsurachok.netlify.app](https://jetsurachok.netlify.app)  
 - ✉️ **Email:** jet-surachok.job@hotmail.com
-- 🧠 Currently learning: Technical QA (API Testing, SQL Validation, Automation with Playwright) for production systems
+- 🧠 Currently learning:
+  - Technical QA - API Testing with Postman
+  - SQL data validation
+  - Automation testing (Playwright) for production systems
 
 ---
 
@@ -28,7 +32,8 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] Objectives of Testing
     - [x] 7 Testing Principles (ISTQB)
     - [x] Test Levels (Unit, Integration, System, UAT)
-    - [x] Test Types (Functional, Non-functional, Change-Related Testing)
+    - [x] Test Types (Functional, Non-functional)
+    - [x] SDLC & STLC
     - [x] Requirement Analysis (STLC Focus: Phase 1, Test Types, Test Design Techniques)
 - **1.2 Software Development & Testing Process**
     - [x] Software Development Models (Waterfall, Agile, V-Model)
@@ -40,13 +45,13 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [x] Equivalence Partitioning (EP)
     - [x] Boundary Value Analysis (BVA)
     - [x] Decision Table (Create & Simplification)
-    - [x] State Transition 
-    - [x] Experience-Based Testing (EBT)
+    - [x] State Transition Testing
+    - [ ] Experience-Based Testing (EBT) ← (need more practice)
 - **2.2 Manual Test Execution**
     - [x] Positive & Negative Testing & Edge Case
     - [x] Test Case Design (Requirement → Test Scenario → Test Case)
 - **2.3 Bug & Defect Management**
-    - [x] QA Mindset (Critical Thinking, Detail, Empathy, Objectivity)
+    - [ ] QA Mindset (Critical Thinking, Detail, Empathy, Objectivity) ← (still learning)
     - [x] Anatomy of Bug Report (clear & reproducible)
     - [x] Bug Reproducibility & Environment Awareness (Client Side, Network, Backend)
     - [x] Severity vs Priority (impact vs urgency)
@@ -55,7 +60,7 @@ Interested in system operations, troubleshooting, and real-world production envi
 
 ## ⭐ (Next Focus Focus)
 
-### 3. 🔍 Technical QA & Backend Validation
+### 3. 🔍 Technical QA & Backend Validation **🟡 IN PROGRESS**
 - **3.1 SQL for QA**
     - [ ] CRUD Operations (SELECT, INSERT, UPDATE, DELETE)
     - [ ] Advanced Queries (JOIN, GROUP BY, Aggregate)
@@ -69,7 +74,7 @@ Interested in system operations, troubleshooting, and real-world production envi
     - [ ] Data Integrity Testing (validate data between API response & database)
     - [ ] Debug API issues using SQL queries
 
-### 4. 🤖 Automation & Process (The Efficiency)
+### 4. 🤖 Automation & Process (The Efficiency) **📅 PLANNED**
 - **4.1 Programming for QA**
     - [ ] ~~JavaScript / Python~~
     - [ ] Typescript
@@ -83,17 +88,11 @@ Interested in system operations, troubleshooting, and real-world production envi
 - **4.4 Agile / Scrum for QA**
     - [ ] QA Role in Sprint (Planning, Daily, Review, Retro)
 
-### 5. 🐧 System & Low-Level Testing (The Pro Level)
+### 5. 🐧 System & Low-Level Testing (The Pro Level) **📅 PLANNED**
 - **5.1 Linux Essentials**
-    - [ ] Basic Commands, File System, Permissions
 - **5.2 Log Analysis**
-    - [ ] Application / Server Logs Analysis
 - **5.3 Networking Basics**
-    - [ ] HTTP / HTTPS, IP, DNS
 - **5.4 Performance & Reliability**
-    - [ ] Load Testing with **k6** (Basic Stress Test)
-    - [ ] Log Monitoring & Analysis (ELK Stack or Grafana Basics)
-    - [ ] Testing IoT Connectivity (MQTT/HTTP Latency)
 
 ---
 
