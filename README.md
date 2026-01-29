@@ -25,7 +25,7 @@ Interested in backend systems, API testing, and eventually system engineering.
 
 ---
 
-## ⭐ Learning Roadmap (Current Focus)
+## ⭐ Learning Roadmap (Current Focus) 👉 [QA Learning Practice Repository](https://github.com/JSONBREAK/qa-learning-practice-repository)
 
 ### 1. 🧪 Software Testing Foundations (The Mindset)
 - **1.1 Software Testing Basics**
