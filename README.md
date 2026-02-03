@@ -76,7 +76,7 @@ Completed foundational QA training (test design, defect management, reporting) a
 - Log analysis & debugging
 - Networking basics (client-server, protocols)
 - Performance & reliability testing
-
+<!-- … 
 ---
 
 ## 🎯 Current Skill Levels
@@ -89,7 +89,7 @@ Completed foundational QA training (test design, defect management, reporting) a
 | **SQL** | █████░░░░░ 50% | Complex joins, optimization |
 | **Automation** | ████░░░░░░ 40% | Playwright POM, CI/CD integration |
 | **Test Reporting** | ███████░░░ 70% | Metrics, dashboards |
-
+--> 
 ---
 
 ## 🛠️ Technical Skills
