@@ -18,7 +18,7 @@ Completed foundational QA training (test design, defect management, reporting) a
 - 🌍 **Location:** Bangkok, Thailand  
 - 🖥️ **Portfolio:** [jetsurachok.netlify.app](https://jetsurachok.netlify.app)  
 - ✉️ **Email:** jet-surachok.job@hotmail.com
-- 📚 **Learning Hub:** [QA Learning Journey Repository](https://github.com/JSONBREAK/qa-learning-journey-repository) - 65+ documented QA topics
+- 📚 **Learning Hub:** [QA Learning Journey Repository](https://github.com/JSONBREAK/qa-learning-journey-repository)
 
 ---
 
@@ -126,8 +126,6 @@ Completed foundational QA training (test design, defect management, reporting) a
 - **🛠️ Technical Stack** - API testing (Postman), SQL, Automation (Playwright)
 - **📚 Knowledge Base** - QA fundamentals, design techniques, testing strategies
 - **📋 Learning Roadmap** - Structured learning path with topics and resources
-
-**Content:** 65+ markdown files, templates (test cases, bug reports, RTM), bilingual (TH/EN)
 
 ---
 
