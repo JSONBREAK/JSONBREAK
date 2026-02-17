@@ -3,19 +3,19 @@
 </h1>
 
 <h3 align="center">
-  QA Engineer (Technical Focus) | API Validation | System-Level Testing | Automation Reliability
+  QA Engineer (Technical Focus) | API & Backend Validation | Automation Reliability
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-QA Engineer with a strong technical foundation in systems and infrastructure.
+QA Engineer with a technical foundation in systems and backend validation.
 
-I specialize in structured, risk-based testing with a strong focus on API validation, SQL data verification, and automation reliability.  
-My approach to quality is system-oriented — aiming to identify risks early and reduce downstream defects, with validation beyond the UI layer.
+I focus on structured, risk-based testing and reliable automation design.  
+My approach emphasizes early risk detection, backend-level validation, and deterministic test execution to reduce instability in CI environments.
 
-I value clarity, reproducibility, and stability in both manual and automated testing.
+I value clarity, reproducibility, and stable execution across both manual and automated testing.
 
 - 🌍 Bangkok, Thailand  
 - 🖥️ Portfolio: https://jetsurachok.netlify.app  
@@ -26,123 +26,99 @@ I value clarity, reproducibility, and stability in both manual and automated tes
 
 ## 💡 What I Bring to a Team
 
-- Structured and risk-based test design mindset  
-- Strong requirement analysis before execution  
-- API and backend validation capability  
-- SQL-based data verification and consistency checks  
-- Clear, actionable, and impact-focused defect reporting  
-- Automation stability focus (prevent flaky & shared-state issues)  
-- System-level thinking beyond UI behavior  
+- Risk-based and requirement-driven test design
+- API and backend validation beyond UI checks
+- SQL-based data verification and relational consistency checks
+- Clear, reproducible, and impact-focused defect reporting
+- Automation design focused on determinism and isolation
+- Awareness of shared-state and async-related instability
 
 ---
 
-## 🎓 QA Foundation & Quality Strategy
-
-### 🔎 Requirement & Risk Analysis
-- Acceptance Criteria validation  
-- Impact analysis across system components  
-- Understanding of QA role across SDLC phases  
-- Risk-based prioritization  
-
-### 🧪 Test Design Techniques
-- Boundary Value Analysis (BVA)  
-- Equivalence Partitioning (EP)  
-- Decision Table Testing  
-- State Transition Testing  
-- Requirement Traceability Matrix (RTM)  
-- Test data strategy & edge-case identification  
-
-### 🐞 Defect & Reporting Discipline
-- Structured bug reports (clear reproduction + business impact)  
-- Severity vs Priority evaluation  
-- Root Cause Analysis (RCA) awareness  
-
----
-
-## 🔍 Technical QA Focus
+## 🧪 Technical Focus
 
 ### 🌐 API Testing
 - HTTP methods & status code validation  
-- Request/response structure verification  
-- JSON schema & payload validation  
+- JSON structure and payload verification  
 - Environment & variable management (Postman)  
-- Request chaining & test scripting (expanding automation checks)  
+- Request chaining & validation logic  
 
 ### 💾 SQL & Data Validation
 - CRUD verification  
-- JOIN & relational integrity validation  
+- JOINs and relational integrity validation  
 - Backend data consistency checks  
-- Data integrity & constraint awareness  
+- Data integrity and constraint awareness  
+- Deterministic and isolated test execution  
 
 ### 🤖 Automation (Playwright)
-- Automation principles (what/when to automate)  
+- Practical JavaScript for test automation  
 - Locator strategy (CSS, XPath)  
-- Page Object Model fundamentals  
-- Deterministic and isolated test execution design  
+- Test isolation and shared state prevention  
 - Flakiness prevention strategies  
 
 ---
 
-## 🧠 QA Philosophy
+## 🔬 Practical QA Execution
 
-- Quality should be built early, not tested at the end.  
-- Good test design prevents defects before execution.  
-- Backend validation is as important as UI validation.  
-- Automation must reduce risk, not introduce instability.  
-- Tests should be deterministic, isolated, and reproducible.  
+- Designed and executed API test scenarios covering positive, negative, and edge cases
+- Built Playwright automation for authentication and CRUD flows
+- Performed SQL validation to verify relational data consistency
+- Identified and documented reproducible defects with clear impact analysis
+- Structured test data to prevent shared-state instability
 
----
+--- 
 
-## 🛠️ Technical Skills
+## 🟦 Automation Reliability & JavaScript
 
-> **QA First, Dev Second**
-
-### 🧪 Primary (QA-Focused)
-Postman • Playwright • MySQL • Git  
-
-### 💻 Supporting Development Knowledge
-JavaScript • Node.js • Python • C#  
-
-### ⚙️ Systems & Infrastructure Exposure
-Linux basics • Networking fundamentals • Database concepts  
-
----
-
-## 🟦 JavaScript for Test Automation
-
-Strong understanding of JavaScript behavior and its impact on automation reliability:
+Strong understanding of JavaScript behavior and its impact on automation stability:
 
 - Immutability & defensive copying  
-- Reference vs value behavior  
-- Mutation control & state isolation  
-- Array/object transformation (map, filter, reduce)  
-- Async handling (Promises, async/await, event loop basics)  
-- Error handling & stack trace awareness  
-
-### 🔒 Automation Mindset
-- Deterministic test execution  
-- Shared-state prevention  
-- Structured data transformation  
-- Async stability awareness  
-- Flakiness reduction strategies  
+- Reference vs value behavior awareness  
+- Avoiding hidden mutation across test cases  
+- Structured data transformation (map, filter, reduce)  
+- Async control (Promises, async/await)  
+- Proper error handling and debugging awareness  
 
 🔗 Repository:  
 https://github.com/JSONBREAK/javascript-for-test-automation  
 
 ---
 
-## 📂 Featured Repository
+## 🧠 QA Foundations
 
-### 🎓 QA Learning Journey Repository
-A structured QA knowledge base covering:
+- Requirement analysis & risk-based thinking  
+- Boundary Value Analysis (BVA)  
+- Equivalence Partitioning (EP)  
+- Decision Table Testing  
+- State Transition Testing  
+- Edge-case and test data strategy  
+- Defect lifecycle & reporting discipline  
 
-- Requirement analysis & test strategy  
-- API testing & SQL validation  
-- Automation fundamentals  
-- Practical documentation & learning roadmap  
-
-🔗 https://github.com/JSONBREAK/qa-learning-journey-repository  
+🔗 Repository:  
+https://github.com/JSONBREAK/qa-learning-journey-repository  
 
 ---
 
-> Still improving. Focused on building reliable and maintainable quality systems.
+## 🛠️ Skills
+
+### QA Tools
+- Postman  
+- Playwright  
+- SQL  
+- Git  
+
+### Programming Knowledge
+- JavaScript  
+- Node.js  
+- Python  
+- C#  
+- C++ (Embedded Systems)
+
+### Systems & Infrastructure Exposure
+- Linux fundamentals  
+- Networking basics  
+- Database concepts  
+
+---
+
+> Continuously improving with a focus on building stable, reproducible, and maintainable quality systems.
