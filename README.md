@@ -65,6 +65,8 @@ I value clarity, reproducibility, and stable execution across both manual and au
 - Performed SQL validation to verify relational data consistency
 - Identified and documented reproducible defects with clear impact analysis
 - Structured test data to prevent shared-state instability
+- Designed structured test cases and regression scenarios
+- Created reproducible bug reports with clear reproduction steps
 
 --- 
 
