@@ -3,19 +3,19 @@
 </h1>
 
 <h3 align="center">
-  QA Engineer (Technical Focus) | API & Backend Validation | Automation Reliability
+  QA Engineer | API & Backend Validation | Automation Reliability & Risk-Based Testing
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-QA Engineer with a technical foundation in systems and backend validation.
+QA Engineer with a systems-oriented mindset and interest in backend validation.
 
-I focus on structured, risk-based testing and reliable automation design.  
-My approach emphasizes early risk detection, backend-level validation, and deterministic test execution to reduce instability in CI environments.
+I focus on understanding how features work beneath the surface — validating APIs, data consistency, and execution stability rather than relying only on UI checks.  
+I build automation with attention to isolation and reproducibility to reduce flakiness in CI pipelines.
 
-I value clarity, reproducibility, and stable execution across both manual and automated testing.
+My goal is to contribute reliable quality signals that help teams ship with confidence.
 
 - 🌍 Bangkok, Thailand  
 - 🖥️ Portfolio: https://jetsurachok.netlify.app  
@@ -24,41 +24,37 @@ I value clarity, reproducibility, and stable execution across both manual and au
 
 ---
 
-## 💡 What I Bring to a Team
+## 💡 Core Strengths
 
+### 🧠 Test Strategy & Risk
 - Risk-based and requirement-driven test design
-- API and backend validation beyond UI checks
-- SQL-based data verification and relational consistency checks
-- Clear, reproducible, and impact-focused defect reporting
-- Automation design focused on determinism and isolation
-- Awareness of shared-state and async-related instability
+- Regression and edge-case analysis
+- Clear, impact-focused defect reporting
+
+### 🌐 Backend & Data Validation
+- API validation beyond UI checks
+- SQL-based relational data verification
+- Data consistency and integrity awareness
+
+### 🤖 Automation Engineering
+- Playwright with Page Object Model
+- Test isolation & shared-state prevention
+- Flakiness mitigation and execution stability
 
 ---
 
-## 🧪 Technical Focus
+## 🗂️ Project Example
 
-### 🌐 API Testing
-- HTTP methods & status code validation  
-- JSON structure and payload verification  
-- Environment & variable management (Postman)  
-- Request chaining & validation logic  
-
-### 💾 SQL & Data Validation
-- CRUD verification  
-- JOINs and relational integrity validation  
-- Backend data consistency checks  
-- Data integrity and constraint awareness  
-- Deterministic and isolated test execution  
-
-### 🤖 Automation (Playwright)
-- Practical JavaScript for test automation  
-- Locator strategy (CSS, XPath)  
-- Test isolation and shared state prevention  
-- Flakiness prevention strategies  
+- [QA SauceDemo Test Automation (Playwright)](https://github.com/JSONBREAK/qa-saucedemo-test-automation)
+  - End-to-end UI & API test automation
+  - Risk-based regression suite
+  - Parallel execution and CI-ready
+  - Page Object Model structure
+  - Designed with test isolation and CI stability in mind
 
 ---
 
-## 🔬 Practical QA Execution
+## 🔬 Applied QA Experience
 
 - Designed and executed API test scenarios covering positive, negative, and edge cases
 - Built Playwright automation for authentication and CRUD flows
@@ -68,7 +64,7 @@ I value clarity, reproducibility, and stable execution across both manual and au
 - Designed structured test cases and regression scenarios
 - Created reproducible bug reports with clear reproduction steps
 
---- 
+---
 
 ## 🟦 Automation Reliability & JavaScript
 
@@ -101,26 +97,28 @@ https://github.com/JSONBREAK/qa-learning-journey-repository
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Stack
 
-### QA Tools
-- Postman  
-- Playwright  
-- SQL  
-- Git  
+### Testing & Automation
+- Playwright
+- Postman
+- API Testing
+- Test Case Design
+- Regression & Risk-Based Testing
 
-### Programming Knowledge
-- JavaScript  
-- Node.js  
-- Python  
-- C#  
-- C++ (Embedded Systems)
+### Programming & Scripting
+- JavaScript
+- Node.js
+- Python
 
-### Systems & Infrastructure Exposure
-- Linux fundamentals  
-- Networking basics  
-- Database concepts  
+### Data & Backend Validation
+- SQL (CRUD, JOIN, relational validation)
+
+### Tools & Workflow
+- Git
+- Linux fundamentals
+
+
+> Continuously improving with a focus on building stable, reproducible, and observable quality systems — expanding toward infrastructure-aware and cloud-aligned testing practices.
 
 ---
-
-> Continuously improving with a focus on building stable, reproducible, and maintainable quality systems.
