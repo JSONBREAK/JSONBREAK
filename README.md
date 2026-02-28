@@ -10,12 +10,12 @@
 
 ## 👨‍💻 About Me
 
-QA Engineer with a systems-oriented mindset and interest in backend validation.
+QA Engineer with a systems-oriented mindset focused on backend validation and automation reliability.
 
-I focus on understanding how features work beneath the surface — validating APIs, data consistency, and execution stability rather than relying only on UI checks.  
-I build automation with attention to isolation and reproducibility to reduce flakiness in CI pipelines.
+I validate APIs, data integrity, and execution stability beyond surface-level UI checks.  
+I design automation with isolation and reproducibility in mind to reduce flakiness in CI pipelines.
 
-My goal is to contribute reliable quality signals that help teams ship with confidence.
+My goal is to provide reliable quality signals that enable teams to ship with confidence.
 
 - 🌍 Bangkok, Thailand  
 - 🖥️ Portfolio: https://jetsurachok.netlify.app  
